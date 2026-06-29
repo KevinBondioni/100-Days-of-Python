@@ -1,6 +1,6 @@
 # 100 Days of Code: The Complete Python Pro Bootcamp
 
-Welcome to my repository for Angela Yu's intensive Python bootcamp. This space tracks my daily progress, featuring exercises, projects, and programming challenges designed to build strong foundations in Python development and problem-solving.
+Welcome to my repository for Angela Yu's intensive Python bootcamp. This space tracks my progress, featuring exercises, projects, and programming challenges designed to build strong foundations in Python development and problem-solving.
 
 ## 🚀 Learning Objectives
 * Build a disciplined, daily coding habit.
