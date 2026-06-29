@@ -3,7 +3,6 @@
 Welcome to my repository for Angela Yu's intensive Python bootcamp. This space tracks my progress, featuring exercises, projects, and programming challenges designed to build strong foundations in Python development and problem-solving.
 
 ## 🚀 Learning Objectives
-* Build a disciplined, daily coding habit.
 * Master core Python concepts, including Object-Oriented Programming (OOP), data manipulation, and algorithmic logic.
 * Develop a portfolio of real-world micro-projects to support my career transition into the digital and tech sector.
 
