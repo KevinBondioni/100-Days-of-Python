@@ -8,7 +8,7 @@ Welcome to my repository for Angela Yu's intensive Python bootcamp. This space t
 
 ## 🛠️ Tech Stack & Tools
 * **Language:** Python 3
-* **IDE:** PyCharm
+* **IDE:** Visual Studio Code
 * **Version Control:** Git & GitHub (managed exclusively via Terminal)
 
 ## 📅 Progress Highlights

@@ -1,33 +1,35 @@
-import random
-from random import choice
+from random import choice,randint
 from turtle import Turtle, Screen
-from colori import shape_colors
+import turtle as t
 
+
+
+t.colormode(255)
 tim=Turtle()
 tim.shape("turtle")
 tim.hideturtle()
 tim.speed("fast")
 tim.width(10)
 
-#definisco i movimenti
-def t_right():
-    tim.right(90), tim.forward(25)
-def t_left():
-    tim.left(90), tim.forward(25)
-def ahead():
-    tim.forward(25)
-def back():
-    tim.back(25)
+def random_color():
+    r =randint(0,255)
+    g = randint(0, 255)
+    b = randint(0, 255)
+    color=(r,g,b)
+    return color
+
+#definisco le direzioni (nord, est, sud, ovest)
+direction=[0,90,180,270]
 
 def move():
-    movement = [t_right,t_left,ahead,back]
-    scelta_casuale= random.choice(movement)
-    scelta_casuale()
+    tim.pencolor(random_color())
+    tim.seth(choice(direction)) #tim punta in una direzione casuale
+    tim.forward(30) #tim avanza
 
-for _ in range(200):
+for _ in range(100):
     move()
-    tim.pencolor(choice(shape_colors))
 
 screen=Screen()
 screen.exitonclick()
+
 

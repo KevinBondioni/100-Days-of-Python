@@ -4,7 +4,7 @@ from turtle import Turtle,Screen
 is_race_on = False
 screen=Screen()
 screen.setup(width=550,height=350)
-screen.bgpic("grass.png")
+screen.bgpic("grass.gif")
 user_bet=screen.textinput(title="Make your bet",prompt="Which turtle will win the race? Enter a color: "
                                                        "red,white,yellow,black,blue,purple")
 colors = ["red","white","yellow","black", "blue", "purple"]

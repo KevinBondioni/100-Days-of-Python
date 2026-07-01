@@ -21,9 +21,3 @@ while is_on:
                 coffee_maker.make_coffee(order)
             else:
                 print("Sorry, that's not enough money. Money refunded")
-
-
-
-
-
-
