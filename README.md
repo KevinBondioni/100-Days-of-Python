@@ -11,8 +11,12 @@ Welcome to my repository for Angela Yu's intensive Python bootcamp. This space t
 * **IDE:** Visual Studio Code
 * **Version Control:** Git & GitHub (managed exclusively via Terminal)
 
-## 📅 Progress Highlights
-* **Days 20 - 21:** Built the classic *Snake Game* using the Turtle graphics library.
-* **Day 24:** Created a *Mail Merge* automation project focusing on file systems and text manipulation.
-* **Day 25:** Worked on data analysis using CSV files (Central Park Squirrel Census) and developed a states-guessing game logic (*Usa_states*).
-* **Day 26+:** *In progress...*
+📅 Progress Highlights
+
+The bootcamp is structured into progressive milestones that I am tackling sequentially:
+
+* **Days 1 - 14: Python Fundamentals** (Control flow, loops, functions, and basic logic)
+* **Days 15 - 30: Intermediate Concepts & GUI** (Object-Oriented Programming, Local File Systems, Turtle Graphics, and Tkinter)
+* **Days 31 - 45: Web Scraping & Automation** (Working with APIs, BeautifulSoup, and Selenium)
+* **Days 46 - 60: Back-End Development** (Flask, web servers, and databases)
+* **Days 61+: Advanced Topics & Data Science** (Data analysis with Pandas, NumPy, and capstone portfolio projects)
